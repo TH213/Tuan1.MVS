@@ -4,6 +4,8 @@ int main()
 {
 	printf("*********************\n");
 	printf("Bai 8 Tuan 1 TuanHDA\n");
+	printf("Nhap vao 1 xau. He thong se tra lai xau dao cua xau nhap vao.\n");
+	printf(" ");
 	printf("*********************\n");
     char S[100];
     //char Sd[100];
